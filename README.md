@@ -1,3 +1,3 @@
 # blog-1
 
-[Сайт](http://www.grishanova.online/ "Гришанова Елена")
+[Готовая работа](http://www.grishanova.online/ "Гришанова Елена")
